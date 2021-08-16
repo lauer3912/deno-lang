@@ -1,6 +1,6 @@
 [book]
 authors = ["ian"]
-language = "en"
+language = "zh_CN"
 multilingual = false
 src = "src"
-title = "Deno"
+title = "Deno 学习笔记"
